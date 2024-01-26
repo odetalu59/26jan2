@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://logancollman.com/superjp/sitemap.xml
+Sitemap: http://logancollman.com/gilajp/sitemap.xml
+Sitemap: http://logancollman.com/gojekpot/sitemap.xml
+Sitemap: http://logancollman.com/winstrike69/sitemap.xml
+Sitemap: http://logancollman.com/slotgacor/sitemap.xml
+Sitemap: http://logancollman.com/slotzeus/sitemap.xml
+Sitemap: http://logancollman.com/kaptenjackpot/sitemap.xml
+Sitemap: http://logancollman.com/boosterjp/sitemap.xml
+Sitemap: http://logancollman.com/kerajaanslot/sitemap.xml
+Sitemap: http://logancollman.com/pakong86/sitemap.xml
+Sitemap: http://logancollman.com/viral88/sitemap.xml
+Sitemap: http://logancollman.com/clan4d/sitemap.xml
+Sitemap: http://logancollman.com/dinamit4d/sitemap.xml
+Sitemap: http://logancollman.com/elang212/sitemap.xml
+Sitemap: http://logancollman.com/gori77/sitemap.xml
+Sitemap: http://logancollman.com/viral4d/sitemap.xml
+Sitemap: http://logancollman.com/playground88/sitemap.xml
